@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CommunityApplications>
+  <Profile>
+    Unraid Community Applications template repository maintained by hovee, featuring Docker applications including Antigravity CLI and DVDCompress.
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/hoveeman/unraid-templates/main/assets/icon.png</Icon>
+  <WebPage>https://github.com/hoveeman/unraid-templates</WebPage>
+  <Support>https://github.com/hoveeman/unraid-templates/issues</Support>
+</CommunityApplications>
